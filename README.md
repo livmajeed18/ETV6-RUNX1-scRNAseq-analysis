@@ -8,6 +8,6 @@
   activity with CollecTRI
 - `project_preleukemic.py` — projection of the cells onto the murine HSPC
   reference landscape of Kucinski et al. (2024), using cellproject
-- `ref_projection.py` — projection figures and comparison of the
+- `ref_projection.ipynb` — projection figures and comparison of the
   transferred reference annotation against the SingleR annotation
   
