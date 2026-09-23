@@ -1,6 +1,4 @@
-# ETV6::RUNX1 scRNA-seq analysis
-#Code for my Bachelor's thesis, "Detection of ETV6::RUNX1 fusion genes from
-#single-cell RNA-seq data in a mouse model of BCP-ALL"
+
 
 # Scripts
 - `ER_analysis.R` — quality control, CCA integration, SingleR annotation,
